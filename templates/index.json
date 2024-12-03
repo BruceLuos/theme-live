@@ -6,6 +6,8 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
+ * 这个index.json可以控制首页layout/theme中content_for_layout展示的内容
+ * sections 对应着sections目录下的liquid文件 如:banner 对应着 sections/banner.liquid
  */
 {
     "sections": {
